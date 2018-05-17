@@ -5,7 +5,7 @@
 import pandas as pd
 import csv
 
-meta = pd.read_csv('../metadata/newgenremeta.csv')
+meta = pd.read_csv('../metadata/genremeta.csv')
 
 ids2get = set(meta.docid.tolist())
 
