@@ -27,6 +27,8 @@ I'll describe folders in an order that roughly tracks the workflow of the experi
 
 [**analysis**](https://github.com/tedunderwood/genredistance/tree/master/analysis) May be where you want to start if you're less interested in the construction of data than in the final inferences. Contains three Jupyter notebooks documenting inferences about word vectors, topic vectors, and predictive models respectively. Also constructs data used to create figures 2, 3, and 4.
 
+[**socialmeasures**](https://github.com/tedunderwood/genredistance/tree/master/socialmeasures) contains only one .csv file, recording the results of PMI calculation on genre pairs.
+
 [**rplots**](https://github.com/tedunderwood/genredistance/tree/master/rplots) The R scripts used for the final stage of visualization.
 
 Technical note: while the measures explored here may be ["statistical distances,"](https://en.wikipedia.org/wiki/Statistical_distance) they are usually not "metrics."
