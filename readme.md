@@ -31,4 +31,7 @@ I'll describe folders in an order that roughly tracks the workflow of the experi
 
 [**rplots**](https://github.com/tedunderwood/genredistance/tree/master/rplots) The R scripts used for the final stage of visualization.
 
-Technical note: while the measures explored here may be ["statistical distances,"](https://en.wikipedia.org/wiki/Statistical_distance) they are usually not "metrics."
+data
+-----
+
+In order to actually run much of the code here, you will also need a folder named **/data** that contains the word counts for 6,846 volumes of fiction. Unzipped, it runs to almost 1GB, and is too large for this repository, so I have provided a link to my institutional repository: [https://www.ideals.illinois.edu/handle/2142/100119](https://www.ideals.illinois.edu/handle/2142/100119)
