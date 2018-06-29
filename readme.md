@@ -1,6 +1,8 @@
 Measures of distance between genres
 ===================================
 
+[![DOI](https://zenodo.org/badge/133397935.svg)](https://zenodo.org/badge/latestdoi/133397935)
+
 Exploring textual and social measures of the distance between genres of fiction. Work in this repository supports Ted Underwood, "The Historical Significance of Textual Distances," presented at the LaTeCH-CLfL workshop associated with COLING in Santa Fe, 2018.
 
 abstract
